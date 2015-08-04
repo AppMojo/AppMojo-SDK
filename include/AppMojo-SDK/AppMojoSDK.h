@@ -14,10 +14,10 @@
 #endif
 
 
-#import <AppMojoSDK/AMSize.h>
-#import <AppMojoSDK/AMBannerView.h>
-#import <AppMojoSDK/AMBannerDelegate.h>
-#import <AppMojoSDK/AMAdRequest.h>
-#import <AppMojoSDK/AMAppEngine.h>
+#import "AMSize.h"
+#import "AMBannerView.h"
+#import "AMBannerDelegate.h"
+#import "AMAdRequest.h"
+#import "AMAppEngine.h"
 
 
