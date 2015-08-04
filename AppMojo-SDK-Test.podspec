@@ -9,4 +9,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/AppMojo/AppMojo-SDK.git", :tag => "0.0.2" }
   s.source_files          = "include/AppMojo-SDK/*.h"  
   s.vendored_libraries    = "lib/libAppMojoSDK.a"
+  s.deprecated   = true;
 end
